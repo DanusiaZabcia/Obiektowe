@@ -35,7 +35,7 @@ public class Firma {
 		
 		while(y>0){
 			y--;
-			System.out.println("Twój pracownik numer " + y + "to" + pracownik[y].imie + pracownik[y].nazwisko + " i ma" + pracownik[y].wiek +" lat");
+			System.out.println("Twój pracownik numer " + y + " to " + pracownik[y].imie +" , " + pracownik[y].nazwisko + " a jego wiek to " + pracownik[y].wiek );
 		
 		}
 	}
