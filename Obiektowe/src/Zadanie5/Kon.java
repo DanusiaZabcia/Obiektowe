@@ -12,8 +12,9 @@ public class Kon {
 		x = a;
 		y = b;
 	}
- /*public Kon (Kon pkt){
+ public Kon (Kon pkt){
 	x=pkt.x;
-	y=pkt.y; */
+	y=pkt.y; 
+ }
 }
 
