@@ -32,7 +32,7 @@ public class ListSort {
 			}
 		}
 
-		System.out.println("" + list);
+		System.out.println( "Posortowane" + list);
 
 	}
 
